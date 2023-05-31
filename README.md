@@ -2,7 +2,7 @@
 
 🔭 I’m currently working as a Full Stack Developer
 
-https://awesome-github-stats.azurewebsites.net/?user=Raissa-Damasceno&cardType=octocat&theme=dracula&showIcons=true&preferLogin=false&properties=Background
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Raissa-Damasceno?cardType=octocat&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 <!--
