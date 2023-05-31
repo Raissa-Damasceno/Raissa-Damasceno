@@ -6,7 +6,6 @@
 📫 How to reach me: raissa.dot@gmail.com
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Raissa-Damasceno?cardType=octocat&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raissa-Damasceno)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
