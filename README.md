@@ -1,4 +1,4 @@
-## I am Raissa Damasceno, currently working as a Full Stack Developer!
+## I am Raissa Damasceno!
 
 🖋️ I have a passion for creating and building new things.
 <br />
